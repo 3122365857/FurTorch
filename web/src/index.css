@@ -1,0 +1,78 @@
+/* TorchRust - Torchlight Infinite themed base styles */
+
+:root {
+  --bg: #0d0f12;
+  --bg-card: #15181d;
+  --bg-elevated: #1a1e24;
+  --accent: #3ffbfd;
+  --accent-dim: #2bc4c6;
+  --gold: #e8b84a;
+  --text: #e6f1ff;
+  --text-muted: #8b9bb4;
+  --border: #2a3142;
+  --error: #e85a5a;
+  font-family: "Noto Sans KR", system-ui, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  color: var(--text);
+  background-color: var(--bg);
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+}
+
+#root {
+  min-height: 100vh;
+}
+
+button {
+  border-radius: 6px;
+  border: 1px solid var(--border);
+  padding: 0.5em 1em;
+  font-size: 0.9em;
+  font-weight: 500;
+  font-family: inherit;
+  background: var(--bg-elevated);
+  color: var(--text);
+  cursor: pointer;
+  transition: border-color 0.2s, background 0.2s;
+}
+
+button:hover:not(:disabled) {
+  border-color: var(--accent);
+  background: rgba(63, 251, 253, 0.08);
+}
+
+button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+input,
+select,
+textarea {
+  font-family: inherit;
+  font-size: 0.9em;
+  color: var(--text);
+  background: var(--bg-elevated);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 0.5em 0.75em;
+}
+
+input:focus,
+select:focus,
+textarea:focus {
+  outline: none;
+  border-color: var(--accent);
+}

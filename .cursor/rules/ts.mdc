@@ -1,0 +1,47 @@
+---
+description: TypeScript coding standards for the SVG Converter project
+globs: **/*.ts, src/**/*.tsx
+alwaysApply: false
+---
+
+# TypeScript Standards
+
+## Key Principles
+- Write concise, technical TypeScript. Functional and declarative patterns — avoid classes.
+- Prefer iteration and modularization over duplication.
+- Use descriptive variable names with auxiliary verbs (e.g., `isLoading`, `hasHexcodeSuffix`).
+- Use lowercase with dashes for directories (e.g., `features/analyze-differences`).
+- Use full, unabbreviated names for files, folders, variables, and functions (e.g., `deduplication` not `dedup`, `analyze-differences` not `analyze-diff`). Only abbreviate when constrained by length.
+- Favor named exports.
+
+## TypeScript Style
+- Use `function` keyword for pure functions. Omit semicolons.
+- Prefer interfaces over types. Avoid enums — use maps or `as const` objects.
+- File structure: Exported function, helpers, static content, types.
+- Use concise one-line syntax for simple conditionals (e.g., `if (condition) doSomething()`).
+- Guard clauses and early returns over deeply nested `if` blocks.
+
+## Logging
+- Use **Winston** (`winston` package) for all logging — never use bare `console.log` / `console.error`.
+- Import the shared logger from `src/config/logger.ts`.
+- Use appropriate log levels: `error`, `warn`, `info`, `debug`.
+- Use `logger.info()` for progress and summary messages, `logger.warn()` for recoverable issues, `logger.error()` for failures.
+
+## Project Structure
+```
+src/
+  config/          — globalEnv (const.ts), logger (logger.ts)
+  features/        — one folder per pipeline step (rename, deduplication, pipeline, etc.)
+  shared/          — reusable modules (icon-mapping.ts, utils/)
+  global.d.ts      — environment variable type declarations
+```
+
+## Error Handling
+- Handle errors at the beginning of functions with guard clauses.
+- Use early returns for error conditions.
+- Implement proper error logging via Winston.
+- Consider custom error types for consistent handling.
+
+## Naming Conventions
+- Config object keys: camelCase matching the env var semantics (e.g., `aowDbDataDirEN`).
+- Feature modules export a `run*` function (e.g., `runRename`, `runDeduplication`).

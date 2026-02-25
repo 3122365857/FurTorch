@@ -1,0 +1,120 @@
+☆ 수정날짜 : 2026-02-22
+
+ * TTD 자주하는 질문 Q&A = https://gall.dcinside.com/torchlightinfinite/108139
+
+ * 시즌 패치노트 - https://torchlight.xd.com/kr/news/list
+ 
+ * 블러드 러스트 시즌 - https://tlidb.com/ko/Vorax_Season
+ 
+ ----------------- ★초보자의 시작★ -----------------
+
+ * 처음키울때는 게임메뉴 > (인기빌드/원클릭파밍/전투정보실/도움말) 조심해서 참고하기
+
+ * 공식채널 1편: 입문 가이드 - https://www.youtube.com/watch?v=WpIp535YC3E
+
+ * 공식채널 2편: 히어로 선택 가이드 - https://www.youtube.com/watch?v=5_Vir5jVjbM
+
+ * 공식채널 3편: 콘텐츠 가이드 - https://www.youtube.com/watch?v=dL7CP6BJ2SA
+  
+ * 디시갤 - 초보자 가이드 - https://zrr.kr/ESetwt  
+ 
+ * 디시갤 - 통합 가이드 시트 -  https://zrr.kr/ZJIhYY
+
+ * 라운지 기본가이드  - https://game.naver.com/lounge/Torchlight_Infinite/board/6
+ 
+ * 맵 레이아웃  - https://bethegamer.tistory.com/13
+ 
+ * MP봉인(오라)가이드  - https://youtu.be/aB4kuBXIWnM
+ 
+ * 토치DB 사이트 - 용어검색  - https://tlidb.com/ko/
+ 
+ * DB 즐겨 찾기
+ . 정령 정보 - https://tlidb.com/ko/Pactspirit
+ . 성도 노드 - https://tlidb.com/ko/Void_Chart
+ . 봉합 - https://tlidb.com/ko/Graft
+ . 타워시퀀스 - https://tlidb.com/ko/TOWER_Sequence
+ . 조향 옵션 - https://tlidb.com/ko/Blending_Rituals
+ . 신의계보 참고용(재능옵션) - https://tlidb.com/ko/Talent
+ . 운명 옵션 - https://tlidb.com/ko/Destiny
+ . 침식 - https://tlidb.com/ko/Corrosion
+ . 아이템정보 - https://tlidb.com/ko/Drops_everywhere_in_Netherrealm
+ 
+ ----------------- 정보 및 TIP 의 시작 -----------------
+ 
+ * 나의 데이터 기록실 https://torchlight.xd.com/kr/data
+ 
+ * 뉴비를 위한 7계부터 딥스까지 파밍 방법 정리  - https://zrr.kr/qBF44w
+ 
+ * 딥스에서 생존방법 팁1  - https://zrr.kr/0mXhPR
+ 
+ * 딥스에서 생존방법 팁2  - https://zrr.kr/0RAKUQ
+ 
+ * 7급 방어전 공략 - 업데이트 네온핑님 - https://gall.dcinside.com/torchlightinfinite/93141
+ 
+ * 탱킹 - 생존방법들 - https://zrr.kr/Jgpmot
+ 
+ * 오아시스 물자 일일생산량 계산 - https://zrr.kr/FdQQzv
+ 
+ * 토치라이트 공식 네이버 라운지 - https://zrr.kr/ity5cO
+ 
+ * 토치 디씨사이트  - https://zrr.kr/XBeCUA
+ 
+ ----------------- ★시즌별 컨텐츠★ -----------------
+
+ ★ SS11(시즌11) <블러드 러스트> 시작 : 2026년 1월 16일 금요일 11:00(오전)
+ ~ 독점 보상 : 핵심/특수 장기, 절단도구,탁본인두
+
+ ★ SS10(시즌10) <이면세계> 시작 : 2025년 10월 11일  금요일
+ ~ 독점 보상 : 제노프리즘,프리즘수평기,프리즘복구기,역상
+
+ ★ SS9(시즌9) <현상수배> 시작 : 2025년 7월 18일 금요일
+ ~ 독점 보상 : 타워시퀀스 (토큰/코어)
+
+ ★ SS8 사막의 군주
+ ~ 독점 보상: 조향 재료, 탐침
+
+ ★ SS7 운명의 타로
+ ~ 독점 보상: 숙명 및 천명, 미정 숙명
+
+ ★ SS6 설원
+ ~ 독점 보상: 부귀 및 숭고 전용 보조 스킬, 영감 재료,눈꽃 종이
+
+ ★ SS5 기계인형클럽
+ ~ 독점 보상: 부서진 전승축,빛나는 전승축
+
+ ★ SS4 괴담  -  https://youtu.be/KkSsXVHhdpU?si=QmFh0b03bamQ0NLV
+ ~ 독점 보상: 촉발체,주민’의 눈
+
+ ★ SS3 트윈 나이트메어 (악몽)  - https://www.youtube.com/watch?v=Mifv8NZL_lc
+ ~ 독점 보상: 잠꼬대(무기, 방어구, 장신구)
+
+ ★ SS2 영원의 미궁  - https://www.youtube.com/watch?v=FvQ52qM6sB8
+ ~ 독점 보상: 혼불x,미궁의 잔향(순간/영원)
+
+  ★ SS1 탐욕의 큐브
+ ~ 독점 보상: 환원의 쐐기, 신력 휘석, 
+ ~ 승화의 쐐기(레어/매직/레전드/새로운신)
+
+ ★ S2 검은 돛
+ ~ 독점 보상: 추억의 파편, 추억의 가닥(레어/매직/엘리트)
+
+ ★ S1 검은 물결
+ ~ 독점 보상: 돌연변이 몬스터의 핵, 사역마의 핵
+ 
+ ------------------------------------------
+ 
+ ★ 알면 좋은 정보
+ 
+ ▶ 제어류 : 
+ 빙결, 동결, 마비, 넉백, 약화, 감속, 조롱 및 실명 포함
+ 
+ ▶ 상태이상 : 
+ 점화(연소/화염), 빙결, 동결, 감전(번개), 
+ 마취(뎀증), 외상(저해/물리), 몰락(부패)
+ 
+ ▶ 특수상태이상 : 
+ 연소(특수점화), 한파(특수빙결), 저해(특수외상), 부패(특수몰락) 
+ 
+ 
+ 
+ 

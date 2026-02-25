@@ -1,0 +1,16 @@
+{
+  "name": "torchrust",
+  "version": "0.1.0",
+  "private": true,
+  "description": "TorchRust - Torchlight Infinite companion (Rust + Node.js + React)",
+  "scripts": {
+    "dev:server": "cd server && npm run dev",
+    "dev:web": "cd web && npm run dev",
+    "dev:rust": "cargo run -p torchrust-server",
+    "build:rust": "cargo build -p torchrust-core",
+    "build:cli": "cargo build -p torchrust-cli --release",
+    "build:server": "cd server && npm run build",
+    "build:web": "cd web && npm run build",
+    "build:app": "cd web && npm run build && cd .. && cargo build -p torchrust-server --release"
+  }
+}

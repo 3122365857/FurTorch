@@ -1,0 +1,3 @@
+[workspace]
+resolver = "2"
+members = ["crates/torchrust-core", "crates/torchrust-cli", "crates/torchrust-server"]

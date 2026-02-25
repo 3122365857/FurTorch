@@ -1,0 +1,17 @@
+[package]
+name = "torchrust-server"
+version = "0.1.0"
+edition = "2021"
+description = "TorchRust HTTP server - Axum API, log watching, static frontend"
+
+[[bin]]
+name = "torchrust-server"
+path = "src/main.rs"
+
+[dependencies]
+axum = { version = "0.7", features = ["json"] }
+tokio = { version = "1", features = ["full"] }
+tower-http = { version = "0.5", features = ["cors", "fs"] }
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+torchrust-core = { path = "../torchrust-core" }

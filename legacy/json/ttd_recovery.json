@@ -1,0 +1,16 @@
+{
+  "saved_at": "2026-02-26 01:28:18",
+  "pid": 40700,
+  "exe": true,
+  "geometry": "690x1008+-708+3",
+  "x": -708,
+  "y": 3,
+  "width": 690,
+  "height": 1008,
+  "topmost": false,
+  "alpha": 1.0,
+  "theme": "기본",
+  "opacity": 1.0,
+  "current_tab": "basic",
+  "reason": "destroy_event"
+}
